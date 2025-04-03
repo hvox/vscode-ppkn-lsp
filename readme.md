@@ -11,7 +11,7 @@ In order to work this extension requires Ppkn LSP server to be installed.
 
 This extension contributes the following settings:
 
-* `ppknlsp.something`: TODO.
+* `ppkn-lsp.serverPath`: Specifies the path to Ppkn LSP server.
 
 ## Known Issues
 
@@ -20,9 +20,9 @@ This is duo of server supporting only utf-8 and VSCode supporting exclusively ut
 
 ## Release Notes
 
-### 1.0.0
+### 1.0.0 (NOT RELEASED YET)
 
-Initial release. TODO
+Initial release.
 
 ---
 
